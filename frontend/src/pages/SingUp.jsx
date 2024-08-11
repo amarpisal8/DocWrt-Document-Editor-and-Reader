@@ -6,7 +6,7 @@ const SingUp = () => {
       <div className=' flex items-center justify-center flex-col h-screen bg-[#F0F0F0]'>
         <div className="flex items-center">
                 <div className="left flex items-center justify-center flex-col ml-[50px]">
-
+                    <img src={logo} alt="Logo Icon" />
                 </div>
                 <div className="right">
                     
